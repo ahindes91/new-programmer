@@ -1,5 +1,5 @@
 var message="sup fool";
-//alert (message);
+alert (message);
 var finalmessage=message+" this is really cool";
 console.log(finalmessage);
 //alert (finalmessage);
